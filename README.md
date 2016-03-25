@@ -1,4 +1,4 @@
-# rewrite-enchancment
+# Rewrite Enchancment
 Расширение функционала псевдоссылок для Diafan.CMS
 
 Актуальна для версии 6
